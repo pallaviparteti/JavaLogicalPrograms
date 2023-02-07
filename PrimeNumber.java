@@ -13,12 +13,12 @@ public class PrimeNumber {
 			else {
 				System.out.println(num + " is not prime");
 			}
-				
+
 		}
 	}
 
 	public static void main(String[] args) {
-      prime(11);
+		prime(11);
 	}
 
 }
